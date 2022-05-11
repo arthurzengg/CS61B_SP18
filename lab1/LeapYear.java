@@ -7,7 +7,7 @@ public class LeapYear {
      *  @param  year to be analyzed
      */
     static boolean isLeapYear(int year){
-        
+
     }
 
     private static void checkLeapYear(int year) {
